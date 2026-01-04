@@ -79,7 +79,7 @@ Develop a web dashboard to visualize occupancy and energy savings.
 
 👩‍💻 Team
 Developed collaboratively by:
-Menaku Chekol
+Menalu Chekol
 Zohar Shalom
 Shira Vainer
 Trngo Abawa
